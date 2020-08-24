@@ -1,8 +1,8 @@
 # Module-Files
 Finds the Modules Files (The initial loading file when imported) for Built-in and PIP installed modules.
 
-<div class="bg-yellow-light mb-2">
-  .text-gray-dark on .bg-yellow-light
+<div class="text-red mb-2">
+  .text-red
 </div>
 
 ##### _Note: This might not be 100% accurate as the packages pkg_resources.py and pkgutil.py fails to give the accurate results in certain environment._
